@@ -21,3 +21,4 @@ module "workspaces" {
 #     AWS_SECRET_ACCESS_KEY = var.aws_secret_access_key
 #   }
 }
+
