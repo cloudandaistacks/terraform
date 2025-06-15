@@ -1,5 +1,5 @@
 module "workspaces" {
-  source = "./modules/terraform-tfe-workspaces"
+  source = "modules/terraform-tfe-workspaces"
 
   organization   = "cloudandaistacks"
   oauth_token_id = var.oauth_token_id
